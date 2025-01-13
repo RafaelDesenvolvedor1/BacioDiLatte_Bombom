@@ -19,10 +19,14 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+
+        <!-- animação AOS -->
+
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <title>BomBom | Bacio Di Latte</title>
   </head>
   <body>
-    <header>
+    <header data-aos="fade-up">
       <a href="https://baciodilatte.com.br/" target="_blank" rel="noopener noreferrer"><img src="./src/assets/logo.png" alt="" class="logo" /></a>
 
       <button class="toggle">
@@ -41,8 +45,8 @@
       </nav>
     </header>
 
-    <main>
-      <section class="content">
+    <main data-aos="fade-up"  data-aos-delay="500">
+      <section class="content" data-aos="fade-up">
         <div class="container-text">
           <h2 class="title">
             Não é apenas bombom <br />
@@ -68,7 +72,7 @@
         <li><img src="./src/assets/framboesa.png" alt="" id="framboesa" /></li>
         <li><img src="./src/assets/pistachio.png" alt="" id="pistachio" /></li>
       </ul>
-      <section class="product">
+      <section class="product" data-aos="fade-up">
         <div class="elipse elipsePistachio"></div>
         <img src="./src/assets/pistachio.png" alt="" id="wallpPistachio" class="wallpaper active" />
         <img src="./src/assets/belga.png" alt=""  id="wallpBelga" class="wallpaper" />
@@ -105,5 +109,14 @@
 
     <!-- Selecionar Produto  -->
     <script src="./src/js/selectProd.js"></script>
+
+    <!-- Animação AOS  -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        offset:400,
+        duration:1000,
+      });
+    </script>
   </body>
 </html>
