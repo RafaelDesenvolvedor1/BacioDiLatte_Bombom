@@ -85,7 +85,7 @@ O objetivo foi criar uma experiência visual e interativa que valorizasse o prod
 Em caso de dúvidas ou sugestões, fique à vontade para entrar em contato:
 
 - **E-mail:** rafa_gc123@hotmail.com
-- **LinkedIn:** [Rafael Santos]( www.linkedin.com/in/rafael-santos-06b5a719a) www.linkedin.com/in/rafael-santos-06b5a719a
+- **LinkedIn:** <a href='www.linkedin.com/in/rafael-santos-06b5a719a' target='_blank'>Rafael Santos</a>
 
 ---
 
