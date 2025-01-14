@@ -50,11 +50,11 @@ O objetivo foi criar uma experiência visual e interativa que valorizasse o prod
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/RafaelDesenvolvedor1/BacioDiLatte_Bombom.git)
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd BacioDiLatte_Bombom
    ```
 3. Abra o arquivo `index.html` no navegador de sua preferência.
 
@@ -63,10 +63,11 @@ O objetivo foi criar uma experiência visual e interativa que valorizasse o prod
 ## 🔍 **Estrutura do Repositório**
 
 - **`index.html`:** Arquivo principal da página.
-- **`css/`:** Contém os estilos utilizados na página.
-  - `style.css`: Estilos principais.
-- **`js/`:** Contém os scripts utilizados.
-  - `main.js`: Lógica interativa da página.
+- **`src/css/`:** Contém os estilos utilizados na página.
+  - `src/css/style.css`: Estilos principais.
+- **`src/js/`:** Contém os scripts utilizados.
+  - `src/js/menu.js`: Lógica interativa do menu responsivo.
+  - `src/js/selectProd.js`: Lógica interativa dos botões para selecionar um sabor.
 - **`templates/`:** Protótipos criados no Adobe XD.
 - **`referencias/`:** Recursos visuais e materiais de referência utilizados no projeto.
 
@@ -84,7 +85,7 @@ O objetivo foi criar uma experiência visual e interativa que valorizasse o prod
 Em caso de dúvidas ou sugestões, fique à vontade para entrar em contato:
 
 - **E-mail:** rafa_gc123@hotmail.com
-- **LinkedIn:** [rafael-santos](www.linkedin.com/in/rafael-santos-06b5a719a)
+- **LinkedIn:** [Rafael Santos]( www.linkedin.com/in/rafael-santos-06b5a719a) www.linkedin.com/in/rafael-santos-06b5a719a
 
 ---
 
