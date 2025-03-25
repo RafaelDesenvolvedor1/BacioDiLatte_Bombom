@@ -147,6 +147,8 @@
     opacity: 1;
   }
 
+main .content .learnMore{ z-index:10000 ; }
+
   main .product {
     position: relative;
     display: flex;
